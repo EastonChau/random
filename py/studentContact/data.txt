@@ -1,0 +1,7 @@
+s20261,Easton Chau,Computer Science
+s20262,Jane Smith,Data Science and Engineering
+s20263,Emily Johnson,Financial Technology
+s20264,Michael Brown,Applied Artificial Intelligence
+s20265,Jeff Ma,Computer Engineering
+s20266,Tom Lee,Applied Artificial Intelligence
+s20267,Jack Chan,Computer Engineering
